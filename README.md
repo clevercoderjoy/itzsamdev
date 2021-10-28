@@ -24,8 +24,7 @@
 - 😄 Pronouns: He/him
 - 💬 Ask me about anything
 - 📫 How to reach me **jimisierra2@gmail.com**
-<p> <img src="https://github-readme-stats.vercel.app/api?username=samdevpy&show_icons=true&locale=en&theme=tokyonight" alt="Saiyam Jain" /></p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdevpy&layout=compact&theme=tokyonight " alt="Saiyam Jain" /></p>
+
 
   <h3 align="left">⭐ Languages and Tools:</h3>
 <p align="left"><img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>
