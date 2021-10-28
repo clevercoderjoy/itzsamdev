@@ -23,7 +23,7 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/git.png"/></p>
 <br><br>
-<h3 align="left>⭐ Connect with me: </h3>
+<h3 align="left">⭐ Connect with me: </h3>
 <a href="https://twitter.com/_Samdev_">
   <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
