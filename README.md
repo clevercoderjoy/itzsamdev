@@ -16,4 +16,4 @@
 - 😄 Pronouns: He/him
 - 📫 How to reach me **jimisierra2@gmail.com**
 
-  [![Saiyam's github stats](https://github-readme-stats.vercel.app/api?username=mjk618&count_private=true&theme=yeblu&show_icons=true)]      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdevpy&langs_count=18&layout=compact)]
+  [![Saiyam's github stats](https://github-readme-stats.vercel.app/api?username=samdevpy&count_private=true&theme=yeblu&show_icons=true)]      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdevpy&langs_count=18&layout=compact)]
