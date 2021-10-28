@@ -1,22 +1,5 @@
 ## Hi 👋 I'm Saiyam Jain
 <p> <img src="https://komarev.com/ghpvc/?username=samdevpy" alt="Saiyam views" /> </p>
-<a href="https://twitter.com/_Samdev_">
-  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/samdevpy/">
-  <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/samdevpy">
-  <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  <a href="  t.me/devguy_sam">
-  <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-  <a href="https://www.youtube.com/channel/UCqZMR3jNsudkKd6Hbl-pSpQ">
-  <img align="left" alt="My Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br>
 
 - 🔭  I’m currently working on my coding skills
 - 🌱 I’m currently learning Data Structures & Algorithms
@@ -42,5 +25,23 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/git.png"/></p>
 <br><br>
+<a href="https://twitter.com/_Samdev_">
+  <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/samdevpy/">
+  <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/samdevpy">
+  <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  <a href="  t.me/devguy_sam">
+  <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
+  <a href="https://www.youtube.com/channel/UCqZMR3jNsudkKd6Hbl-pSpQ">
+  <img align="left" alt="My Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdevpy&theme=tokyonight" alt="Stats" /></p>
