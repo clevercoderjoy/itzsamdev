@@ -15,5 +15,5 @@
 - 👯 I'm challenging myself with [100DaysOfCode](https://github.com/shreya-panale/100DaysOfCode) challenge
 - 😄 Pronouns: He/him
 - 📫 How to reach me **jimisierra2@gmail.com**
-
-  [![Saiyam's github stats](https://github-readme-stats.vercel.app/api?username=samdevpy&count_private=true&theme=yeblu&show_icons=true)]      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdevpy&langs_count=18&layout=compact)]
+<p> <img src="https://github-readme-stats.vercel.app/api?username=samdevpy&show_icons=true&locale=en&theme=tokyonight" alt="Saiyam Jain" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdevpy&layout=compact&theme=tokyonight " alt="Saiyam Jain" />
