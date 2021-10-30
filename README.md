@@ -45,4 +45,5 @@
 <br>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samdevpy&theme=tokyonight" alt="Stats" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samdev-py&show_icons=true&hide_border=true)
+
