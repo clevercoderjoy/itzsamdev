@@ -43,8 +43,6 @@
   <img align="left" alt="My Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br>
-<br>
-<br>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samdev-py&show_icons=true&hide_border=true)
