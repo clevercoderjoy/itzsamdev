@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on my coding skills
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 👯 I'm challenging myself with [100DaysOfCode](https://github.com/samdev-py/100DaysOfCode) challenge
+- 👯 I'm challenging myself with [DSAUsingPython](https://github.com/samdev-py/DsaUsingPython)
 - 😄 Pronouns: He/him
 - 💬 Ask me about anything
 - 📫 How to reach me **jimisierra2@gmail.com**
