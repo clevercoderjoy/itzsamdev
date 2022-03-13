@@ -7,23 +7,6 @@
 - 😄 Pronouns: He/him
 - 💬 Ask me about anything
 - 📫 How to reach me **jimisierra2@gmail.com**
-<h3 align="left">⭐ Languages and Tools:</h3>
-<p align="left"><img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/c-programming.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/>
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGhE8jNwjlc3w/company-logo_200_200/0/1554836371931?e=2159024400&v=beta&t=tQbdczcJ9C9g1pggtEXpC5CQgaFxCZn_d3CAOyeWWDU" width="32" height="32"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/html-5.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/css3.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/javascript.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/mysql-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/mongodb.png"/>
-<img align="left" src="https://img.icons8.com/officel/32/000000/react.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/nodejs.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/django.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/></p>
-<br><br>
-
 
 <h3 align="left">⭐ Connect with me: </h3>
 <a href="https://twitter.com/_Samdev_">
