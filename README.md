@@ -18,7 +18,7 @@
 <a href="https://github.com/samdevpy">
   <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://t.me/itzsammyyyy">
+  <a href="https://t.me/itzsamdev">
   <img align="left" alt="My Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
