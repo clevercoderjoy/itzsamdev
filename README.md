@@ -2,8 +2,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=samdevpy" alt="Saiyam views" /> </p>
 
 - 🔭  I’m currently working on my coding skills
-- 🌱 I’m currently learning Data Structures & Algorithms
-- 👯 I'm challenging myself with [DSAUsingPython](https://github.com/samdev-py/DsaUsingPython)
+- 🌱 I’m currently learning JavaScript
+- 👯 I Regularly Practice Competative Coding and update progress [here](https://github.com/samdev-py/Data-Structures-and-algorithms)
 - 😄 Pronouns: He/him
 - 💬 Ask me about anything
 - 📫 How to reach me **jimisierra2@gmail.com**
