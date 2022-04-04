@@ -28,5 +28,5 @@
 <br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=samdev-py&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzsamdev&show_icons=true&hide_border=true)
 
