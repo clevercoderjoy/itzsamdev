@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning Web development
 - 🌱 I’m currently practicing competitive coding at [Codechef](https://www.codechef.com/users/saiyam_42)
-- 🤔 I’m looking for help with Node.js
+- 🤔 I’m looking for help with React.js
 - 🤝 I like to meet new people
 - 😄 Pronouns: He/him
 
