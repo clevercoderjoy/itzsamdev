@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm Saiyam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 🔭 I’m currently learning Web development
-- 🌱 I’m currently practicing competitive coding at [Codechef](https://www.codechef.com/users/saiyam_42)
 - 🤔 I’m looking for help with React.js
 - 🤝 I like to meet new people
 - 😄 Pronouns: He/him
